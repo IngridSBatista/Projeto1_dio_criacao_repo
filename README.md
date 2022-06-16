@@ -1,2 +1,5 @@
-# Projeto1_dio_criacao_repo
+# Projeto - CRIAÇÃO DE REPOSITÓRIO
+
 Projeto DIO para criação de repositório e sincronização de documentos
+
+##### Curso da Digital Innovation One
